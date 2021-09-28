@@ -9,6 +9,7 @@ Do a Github tutorial. Task from Tran Phuc Thinh
 // adding one line in test rebase
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // adding one line in test rebase1
 <<<<<<< HEAD
 =======
@@ -20,3 +21,6 @@ Do a Github tutorial. Task from Tran Phuc Thinh
 =======
 // adding one line in testing_rebase
 >>>>>>> 27a687e (commit 2 in testing_rebase)
+=======
+// adding one line in test rebase1
+>>>>>>> 5364729 (test rebase)
