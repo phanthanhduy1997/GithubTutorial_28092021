@@ -5,4 +5,3 @@ Do a Github tutorial. Task from Tran Phuc Thinh
 // adding one line in test rebase
 
 // adding one line in test rebase1
-// adding one line in test rebase2
