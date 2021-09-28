@@ -4,3 +4,7 @@ Do a Github tutorial. Task from Tran Phuc Thinh
 // adding one line in testing rebase v1
  
 // Adding one line to test git rebase
+
+// adding one line in test rebase
+
+// adding one line in test rebase1
