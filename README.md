@@ -2,11 +2,17 @@
 Do a Github tutorial. Task from Tran Phuc Thinh
 // Adding one line in duythanhphan branch 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e8a3434 (test on rebase branch)
 
 // adding one line in test rebase
 
 // adding one line in test rebase1
+<<<<<<< HEAD
 =======
  
 // Adding one line to test git rebase
 >>>>>>> d855b9b (testing rebase commit)
+=======
+>>>>>>> e8a3434 (test on rebase branch)
